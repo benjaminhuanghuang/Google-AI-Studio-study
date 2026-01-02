@@ -1,1 +1,3 @@
-# Google-AI-Studio-study
+# Google AI Studio study
+
+
