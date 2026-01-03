@@ -10,6 +10,6 @@ https://www.bilibili.com/video/BV1wD7szTECJ/
 - Deep Dive into the Settings available in Google AI Studio
 - Additional Activities after generating responses from the prompts
 - API Keys in Google AI Studio
-- Using Google AI Studio for Generative AI 8
+- Using Google AI Studio for Generative AI
 - Closing Notes
 - Assignment
